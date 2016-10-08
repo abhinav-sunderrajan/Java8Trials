@@ -7,6 +7,12 @@ import java.util.Optional;
 import java.util.UUID;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * These are simple examples of streams in Java8
+ * 
+ * @author abhinav.sunderrajan
+ *
+ */
 public class Streams {
 
     public static void main(String args[]) {
